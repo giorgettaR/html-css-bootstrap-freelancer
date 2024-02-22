@@ -1,5 +1,36 @@
 
-/* DEBUG ---------------------------------------- */
+/* STYLE ---------------------------------------- */
+
+/* STYLE header --------------------------------- */
+
+header {
+    background-color: rgba(44,62,80,255);
+    color: white;
+}
+
+/* STYLE hero ----------------------------------- */
+
+.hero {
+    background-color: rgba(26,188,156,255);
+}
+
+/* STYLE about ----------------------------------- */
+
+.about {
+    background-color: rgba(26,188,156,255);
+}
+
+/* STYLE footer ---------------------------------- */
+
+footer .info {
+    background-color: rgba(58,84,109,255);
+}
+
+footer .copyright {
+    background-color: rgba(44,62,80,255);
+}
+
+/* DEBUG ----------------------------------------- */
 
 .debug [class^=col] {
     height: 100px;
